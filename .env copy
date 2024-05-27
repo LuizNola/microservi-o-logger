@@ -1,0 +1,2 @@
+LOGGER_QUEUE=loggerConsume
+RABBITMQ_URL=amqp://root:root@localhost:5672
